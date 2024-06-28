@@ -28,5 +28,4 @@ I'm an Android developer and also enthusiastic to gather new knowledge.
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=anuphap&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/anuphap)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuphap&layout=normal&langs_count=10&hide_border=true&theme=dracula&custom_title=Languages)](https://github.com/anuphap)
 
